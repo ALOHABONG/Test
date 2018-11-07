@@ -6,7 +6,7 @@
 
 ''txt1''
 
-[ReadTheDocs](http://django-angular.readthedocs.org/en/latest/).
+[link](http://#).
 
 * txt1
 
