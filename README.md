@@ -4,7 +4,7 @@
 
 ### test txt
 
-``<form djng-endpoint="/path/to/endpoint">...</form>``
+``txt1``
 
 [link](http://#)
 
